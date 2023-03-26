@@ -12,40 +12,42 @@ Whatsapp group chat data exported from the whatsapp app.
        right corner of your screen and
        click on "More"
 
-![IMG_20230326_150941](https://user-images.githubusercontent.com/66953930/227770299-e6822ff0-4cb5-4ea7-8f68-0198edca08fc.jpg =250x250)
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/IMG_20230326_150941.jpg" width="250" height="250" />
+
 
 
     2. Click on "Export Chat"
-screenshot
+
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/Screenshot_2023-03-26-15-09-11-95_6012fa4d4ddec268fc5c7112cbb265e7.jpg" width="250" height="250" />
 
 # Front-end 
 
 ### 1. Data upload section 
 Group data and be uploaded here and analysed once clicked on "Show Analysis".
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/upload%20scrn.PNG" width="250" height="500" />
 
 ### 2. Chat related statistics
 This section shows a high level overview of total messages, words, medias, links of different users.
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/top%204.PNG" width="500" height="250" />
 
 ### 3. Activeness of users
 Shows most and least active users
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/active.PNG" width="400" height="250" />
 
 ### 4. Surge of messages (day-wise and month-wise)
 This shows the daily and monthly messages on the group. Overall and user level activity can be screenshot
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/day%20month%20wise.PNG" width="400" height="250" />
 
 ### Emoji Analysis
 Most frequently used emojis
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/emoji.PNG" width="400" height="250" />
 
 ### Wordcloud
 Wordcloud of the group and user-level
 
-screenshot
+<img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/wordcloud.PNG" width="400" height="250" />
