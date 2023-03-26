@@ -42,12 +42,12 @@ This shows the daily and monthly messages on the group. Overall and user level a
 
 <img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/day%20month%20wise.PNG" width="400" height="250" />
 
-### Emoji Analysis
+### 5. Emoji Analysis
 Most frequently used emojis
 
 <img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/emoji.PNG" width="400" height="250" />
 
-### Wordcloud
+### 6. Wordcloud
 Wordcloud of the group and user-level
 
 <img src="https://github.com/macmagic34/whatsapp-chat-analyser-2.0/blob/main/Screenshots/wordcloud.PNG" width="400" height="250" />
